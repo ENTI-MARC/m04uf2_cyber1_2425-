@@ -1,0 +1,11 @@
+<genres>
+  <genre id="1">
+    <name>Reguetón</name>
+  </genre>
+  <genre id="2">
+    <name>Trap</name>
+  </genre>
+  <genre id="3">
+    <name>Pop Latino</name>
+  </genre>
+</genres>
